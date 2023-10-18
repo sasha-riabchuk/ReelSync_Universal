@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["67QY3Y2G3B.com.riabchuk.reelsync"],
+        "components": [
+          {
+            "/": "/tiktok-login/*",
+            "comment": "Handle TikTok Login"
+          }
+        ]
+      }
+    ]
+  }
+}
